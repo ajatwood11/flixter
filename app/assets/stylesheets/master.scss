@@ -1,1 +1,13 @@
 @import "bootstrap";
+.navbar {
+  font-family: "Times New Roman" , Times New Roman;
+  font-weight: 200;
+  background: image_url('zwartevilt.png')
+}
+
+.navbar-inverse a.navbar-brand {
+  font-family: "Times New Roman" , Times New Roman;
+  font-weight: 100;
+  color: white;
+
+}
