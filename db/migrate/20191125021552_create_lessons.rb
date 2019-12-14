@@ -4,7 +4,7 @@ class CreateLessons < ActiveRecord::Migration[5.2]
       t.string :title
       t.string :subtitle
       t.integer :section_id
-      t.integer :image_url
+    
 
 
       t.timestamps
