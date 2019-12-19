@@ -73,7 +73,7 @@ gem 'carrierwave-aws'
 gem "figaro"
 gem "fog-aws"
 gem "mini_magick"
-gem 'devise_token_auth'
+
 gem 'omniauth'
 
 
